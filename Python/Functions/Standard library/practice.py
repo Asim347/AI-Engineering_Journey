@@ -91,5 +91,3 @@ for item in cleaned_reviews:
 print('\nMost Frequent Words:')
 for word, count in word_counts.most_common():
     print(f'  {word}: {count}')
-
-print("---------------4-------------")
